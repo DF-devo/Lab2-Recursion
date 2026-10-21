@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RecursionLab2.App/RecursionLab2.App.csproj" />
+    <Project Path="src/RecursionLab2.Bench/RecursionLab2.Bench.csproj" />
+    <Project Path="src/RecursionLab2.Core/RecursionLab2.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RecursionLab2.Tests/RecursionLab2.Tests.csproj" />
+  </Folder>
+</Solution>
